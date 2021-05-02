@@ -18,6 +18,9 @@ Belarusian National Technical University, Faculty of Instrumentation
 
 
 
-Интересы
+### WORK EXPERIENCE
 PCB Designers
 Embedded Software
+
+##### Technologies
+* C / C++
